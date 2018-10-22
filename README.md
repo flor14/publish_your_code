@@ -1,6 +1,8 @@
 # publish_your_code
 List of journals
 
+(nor finished)
+
 Thanks to Melina Vidoni
 
 **R packages**
