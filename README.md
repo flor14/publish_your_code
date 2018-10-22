@@ -22,3 +22,4 @@ Thanks to Melina Vidoni
 
 **Shiny apps**
 - https://community.rstudio.com/t/can-i-publish-a-shiny-app-in-a-scientific-journal-how-where/6306
+- https://www.software.ac.uk/resources/guides/which-journals-should-i-publish-my-software
